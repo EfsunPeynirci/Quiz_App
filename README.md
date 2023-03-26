@@ -1,16 +1,15 @@
-# quiz
+# Quiz App
 
-A new Flutter project.
+When you open the Quiz application, a question comes to you one by one. The answers to our questions are either right or wrong. You proceed by clicking on the answer you see fit. The total number of questions is 6.
 
-## Getting Started
+When we answer the question correctly, a tick mark appears below. If you answer the question incorrectly, a cross is displayed.
 
-This project is a starting point for a Flutter application.
+After answering a total of 6 questions, it guides you. If you want to play the game again, just press the "try again" button. If you want to exit the game, you can press the "exit" button.
 
-A few resources to get you started if this is your first Flutter project:
+After pressing the try again button, the game will start again. But this time, the questions will appear in a shuffled way.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/100719856/227783972-8fa69f15-ebef-4ef9-8b6a-d86996c5dbcf.mp4
+
