@@ -14,12 +14,6 @@ The app is designed to be simple, educational, and engaging, with randomized que
 
 ---
 
-## 🎥 Demo Video
-
-https://github.com/user-attachments/assets/cff46178-8cd9-4a3f-8cb5-7fecf114b2c6
-
----
-
 ## 📸 Screenshots
 
 ### Quiz Screen
@@ -29,6 +23,12 @@ https://github.com/user-attachments/assets/cff46178-8cd9-4a3f-8cb5-7fecf114b2c6
 ### End of Quiz Alert
 
 ![quiz_app-2](https://github.com/user-attachments/assets/3af32942-6d6c-45ce-95e9-f99270e1b581)
+
+---
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/cff46178-8cd9-4a3f-8cb5-7fecf114b2c6
 
 ---
 
